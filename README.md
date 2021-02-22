@@ -1,5 +1,7 @@
 # paper<br>
 
+机器学习中的隐私攻击与防御 [[paper]](http://jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=5904&flag=1&journal_id=jos&year_id=2020)<br>
+
 ## 2020.12.4<br>
 细读论文<br>
 * HybridAlpha: An Efficient Approach for Privacy-Preserving Federated Learning, 2019 [[paper]](https://arxiv.org/pdf/1912.05897.pdf) [[blog]](https://blog.csdn.net/qq_39715243/article/details/113447711)<br>
